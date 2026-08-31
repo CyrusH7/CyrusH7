@@ -1,5 +1,5 @@
 ## Hi 👋 
-- I’m a **`second-year`** undergraduate student studying at **`SYNU`** ☺️
+- I’m a **`third-year`** undergraduate student studying at **`SYNU`** ☺️
 - I love exploring **`computer graphics and 3D vision`** 🥰
 - Feel free to reach out to me for discussions and learning 🤝
   
