@@ -3,12 +3,8 @@
 - I love exploring **`computer graphics and 3D vision`** 🥰
 - Feel free to reach out to me for discussions and learning 🤝
   
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CyrusH7" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusH7&layout=donut" />
-</p>
 
-![](https://raw.githubusercontent.com/CyrusH7/CyrusH7/refs/heads/output/github-contribution-grid-snake.svg)
+
 <!--
 **Cyrus-Hao/Cyrus-Hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
